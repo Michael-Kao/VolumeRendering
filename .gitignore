@@ -50,7 +50,6 @@ include/divisible/*
 build/**/*
 assets/Scalar/*
 
-include/*
 lib/*
 bin/*
 test/test_runner
