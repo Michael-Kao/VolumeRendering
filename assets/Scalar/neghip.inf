@@ -1,0 +1,4 @@
+raw-file=neghip.raw
+resolution=64x64x64
+sample-type=unsigned char
+ratio=1:1:1

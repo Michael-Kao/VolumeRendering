@@ -48,7 +48,7 @@ include/divisible/*
 .idea/*.xml
 
 build/**/*
-assets/Scalar/*
+
 
 lib/*
 bin/*
